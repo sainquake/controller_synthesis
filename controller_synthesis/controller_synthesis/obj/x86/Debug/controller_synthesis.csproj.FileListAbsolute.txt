@@ -1,0 +1,40 @@
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.MainForm.resources
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.exe.config
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.exe
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.pdb
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.exe
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.pdb
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.csprojResolveAssemblyReference.cache
+C:\Users\SAINQUAKE\Documents\SharpDevelop Projects\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.csproj.GenerateResource.Cache
+C:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.exe.config
+C:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.exe
+C:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.pdb
+C:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.MainForm.resources
+C:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.exe
+C:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.pdb
+D:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.exe.config
+D:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.exe
+D:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.pdb
+D:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.csprojResolveAssemblyReference.cache
+D:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.MainForm.resources
+D:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.csproj.GenerateResource.Cache
+D:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.exe
+D:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.pdb
+C:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.csprojResolveAssemblyReference.cache
+C:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.csproj.GenerateResource.Cache
+E:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.exe.config
+E:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.exe
+E:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.pdb
+E:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.csprojResolveAssemblyReference.cache
+E:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.MainForm.resources
+E:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.csproj.GenerateResource.Cache
+E:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.exe
+E:\Dropbox\Duty\62\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.pdb
+D:\C# workspace\cs\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.exe.config
+D:\C# workspace\cs\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.exe
+D:\C# workspace\cs\controller_synthesis\controller_synthesis\bin\Debug\controller_synthesis.pdb
+D:\C# workspace\cs\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.csprojResolveAssemblyReference.cache
+D:\C# workspace\cs\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.MainForm.resources
+D:\C# workspace\cs\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.csproj.GenerateResource.Cache
+D:\C# workspace\cs\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.exe
+D:\C# workspace\cs\controller_synthesis\controller_synthesis\obj\x86\Debug\controller_synthesis.pdb
